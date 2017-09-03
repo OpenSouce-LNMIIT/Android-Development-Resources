@@ -10,7 +10,3 @@ Android-Development-Resources
 ##
 
 Repository for android development resources.
-
-[Basic Android Layouts course on Udacity for beginners](https://goo.gl/1U9tZg)
-
-[Intermediate course on building android apps with functional backends, to be done preferably after the above course](https://goo.gl/2EnLBT)
