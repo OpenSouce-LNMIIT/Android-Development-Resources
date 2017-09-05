@@ -57,15 +57,15 @@ Visit this [link](https://www.digitalocean.com/community/tutorials/how-to-instal
 
 This will open up the android studio. Somewhat similar to below would appear. Select configure in it.
 
-![start](images/start)
+![start](images/start.png)
 
 Click on the SDK Manager icon 
 
-![configure](images/configure)
+![configure](images/configure.png)
 
 Now the below window will appear. Install the ticked packages shown in the below image.
 
-![sdk](images/sdk)
+![sdk](images/sdk.png)
 
 
 
