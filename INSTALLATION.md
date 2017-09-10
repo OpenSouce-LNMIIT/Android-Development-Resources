@@ -65,6 +65,10 @@ Click on the SDK Manager icon
 
 Now the below window will appear. Install the ticked packages shown in the below image.
 
+![sdk-tools](images/sdk-tools.png)
+
+Select the below checked boxes to install the Android Software Development Kit for different platforms of Android. If you can't see the individual packages, tick the check-box in the bottom right corner titled "Show Package Details".
+
 ![sdk](images/sdk.png)
 
 
