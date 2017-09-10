@@ -3,7 +3,7 @@
 
 ## Why Android development?
 
-There are over 1 billion android devices active and 2.2 millions android apps on play store today.Android represents an incredible opportunity for developers. Also Android studio is a latest and most widely used IDE designed by Google itself.So if you want to develop apps in android then it is highly recommended to use Android Studio.
+There are over 1 billion Android devices active and 2.2 million android apps on Play Store today. Android represents an incredible opportunity for developers. Android applications can be developed both in Android Studio and Eclipse, which are both IDEs. However, Android Studio is the official IDE for app development by Google, so it is highly recommended to use Android Studio for development.
 
 ## Quick Overview
 
@@ -63,7 +63,7 @@ Click on the SDK Manager icon
 
 ![configure](images/configure.png)
 
-Now the below window will appear. Install the ticked packages shown in the below image.
+Now the below window will appear. Install the ticked packages shown in the below image. Installing the Native Development Kit(NDK) is mandatory if you want to develop using C++.
 
 ![sdk-tools](images/sdk-tools.png)
 
@@ -71,6 +71,9 @@ Select the below checked boxes to install the Android Software Development Kit f
 
 ![sdk](images/sdk.png)
 
+Now let the packages download and install themselves, after which click done.
+
+Now you can make new projects using the "New Project" option from the "File" drop-down menu.
 
 
 
