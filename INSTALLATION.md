@@ -71,9 +71,9 @@ Select the below checked boxes to install the Android Software Development Kit f
 
 ![sdk](images/sdk.png)
 
-Now let the packages download and install themselves, after which click done.
+Now let the packages download and install themselves, after which click "Done".
 
-Now you can make new projects using the "New Project" option from the "File" drop-down menu.
+Now you can make new projects using the "New Project" option from the "File" drop-down menu, or from the "Start a new Android Project" button.
 
 
 
