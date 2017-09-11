@@ -6,3 +6,4 @@
 
 * [Installation Guide of Android Studio](INSTALLATION.md)
 
+* [Building your first app](https://developer.android.com/training/basics/firstapp/index.html)
