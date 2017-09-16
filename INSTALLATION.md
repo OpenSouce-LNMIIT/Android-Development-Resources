@@ -21,7 +21,7 @@ JDK and JRE are essential for JAVA to run on your machine.
 
 #### Installing JAVA : 
 
-Open up your Terminal ( Alt + Shift + T) and follow the below commands to install JDK and JRE.
+Open up your Terminal (Alt + Shift + T) for Mac or (Ctrl + Alt + T) for Linux and follow the below commands to install JDK and JRE.
 
 ##### Step 1: Update package list
 
@@ -87,7 +87,7 @@ JDK and JRE are essential for JAVA to run on your machine.
 
 #### Installing Android Studio
 
-[Download](https://developer.android.com/studio/index.html#downloads) the latest version of Android Studio which includes the Android SDK available.
+[Download](https://developer.android.com/studio/index.html#downloads) the latest version of Android Studio available which includes the Android SDK.
 
 ![download_windows](images/download_windows.png)
 
