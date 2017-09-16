@@ -83,7 +83,8 @@ JDK and JRE are essential for JAVA to run on your machine.
 
 1. Go [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and download the correct verion for your Windows (32-bit or 64-bit) from the <b> Java SE Development Kit </b> section.
 2. Now, go [here](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) and download the correct file under the <b> Java SE Runtime Environment </b>.
-3. It is advised to keep the install the above packages at the default directories appearing in the installer.
+3. Install both the packages.
+4. It is advised to install the above packages at the default directories appearing in the installer.
 
 #### Installing Android Studio
 
