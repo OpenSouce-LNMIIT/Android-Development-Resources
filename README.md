@@ -14,3 +14,5 @@ Here's a good article on the [Android Development and it's future](https://mediu
  CHeck it out!
 
 [Tips and tricks for new android developers](http://www.androidauthority.com/tips-tricks-new-android-app-developers-336322/)
+
+[java basics for android app development](http://blog.teamtreehouse.com/java-basics-for-android-development-part-1)
