@@ -7,3 +7,7 @@
 
 * [Installation Guide of Android Studio](INSTALLATION.md)
 
+*[the official documentation for android](
+   https://developer.android.com/index.html)
+*[the official Android developers blog](https://android-developers.googleblog.com/) 
+
