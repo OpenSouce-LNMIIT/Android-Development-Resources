@@ -12,7 +12,7 @@
 
 *[top 10 most common android development resources] (https://www.toptal.com/android/top-10-most-common-android-development-mistakes)
 
-* a good block for learning android styling tips (https://blog.stylingandroid.com/)
+* [a good block for learning android styling tips] (https://blog.stylingandroid.com/)
 
-* why switch to kotlin (https://www.javacodegeeks.com/2016/05/kotlin-java-developers-10-features-will-love-kotlin.html)
+* [why switch to kotlin] (https://www.javacodegeeks.com/2016/05/kotlin-java-developers-10-features-will-love-kotlin.html)
 
