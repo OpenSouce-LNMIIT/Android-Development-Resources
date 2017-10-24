@@ -14,3 +14,8 @@
 
 * [Why switch to kotlin?](https://www.javacodegeeks.com/2016/05/kotlin-java-developers-10-features-will-love-kotlin.html)
 
+* [An excellent blog on android app development] (http://androiddevblog.blogspot.in/)
+
+* [An introduction to goole apps script] (http://androiddevblog.blogspot.in/)
+
+* [Get Started with a chat application] (https://socket.io/get-started/chat/)
