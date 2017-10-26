@@ -19,3 +19,5 @@
 * [An introduction to goole apps script] (http://androiddevblog.blogspot.in/)
 
 * [Get Started with a chat application] (https://socket.io/get-started/chat/)
+
+*[Why do mobile applications crash] (http://www.rapidsofttechnologies.com/why-do-mobile-applications-crash.php)
