@@ -11,4 +11,4 @@
 
 * [The official Android developers blog](https://android-developers.googleblog.com/)
 
-+ [Lecture Series on Android Development](Lecture Series on Android Development)
++ [Lecture Series on Android Development](https://www.udemy.com/become-an-android-developer-from-scratch/)
