@@ -8,16 +8,16 @@
 
 * [Tips and tricks for new android developers](http://www.androidauthority.com/tips-tricks-new-android-app-developers-336322/)
 
-* [Top 10 most common android development mistakes] (https://www.toptal.com/android/top-10-most-common-android-development-mistakes)
+* [Top 10 most common android development mistakes](https://www.toptal.com/android/top-10-most-common-android-development-mistakes)
 
 * [A good blog for learning android styling tips](https://blog.stylingandroid.com/)
 
 * [Why switch to kotlin?](https://www.javacodegeeks.com/2016/05/kotlin-java-developers-10-features-will-love-kotlin.html)
 
-* [An excellent blog on android app development] (http://androiddevblog.blogspot.in/)
+* [An excellent blog on android app development](http://androiddevblog.blogspot.in/)
 
-* [An introduction to Google apps script] (http://androiddevblog.blogspot.in/)
+* [An introduction to Google apps script](http://androiddevblog.blogspot.in/)
 
-* [Get Started with a chat application] (https://socket.io/get-started/chat/)
+* [Get Started with a chat application](https://socket.io/get-started/chat/)
 
-* [Why do mobile applications crash] (http://www.rapidsofttechnologies.com/why-do-mobile-applications-crash.php)
+* [Why do mobile applications crash](http://www.rapidsofttechnologies.com/why-do-mobile-applications-crash.php)
