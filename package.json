@@ -1,0 +1,17 @@
+{
+  "name": "Android-Development-Resources",
+  "version": "1.0.0",
+  "description": "A collection of resources for Android Development",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cybros/Android-Development-Resources.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cybros/Android-Development-Resources/issues"
+  },
+  "homepage": "https://github.com/Cybros/Android-Development-Resources#readme"
+}
