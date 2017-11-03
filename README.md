@@ -10,3 +10,5 @@
 * [The official documentation for android](https://developer.android.com/index.html)
 
 * [The official Android developers blog](https://android-developers.googleblog.com/)
+
++ [Lecture Series on Android Development](https://www.udemy.com/become-an-android-developer-from-scratch/)
