@@ -11,4 +11,6 @@
 
 * [The official Android developers blog](https://android-developers.googleblog.com/)
 
+* [Android Developer Fundamentals Course by Google Developers](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts/en/)
+
 + [Lecture Series on Android Development](https://www.udemy.com/become-an-android-developer-from-scratch/)
